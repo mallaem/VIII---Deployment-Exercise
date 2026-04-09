@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/mallaem/VIII---Deployment-Exercise/badge.svg)](https://coveralls.io/github/mallaem/VIII---Deployment-Exercise)
 # Student template
 
 ## Purpose of this repository
