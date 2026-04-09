@@ -1,6 +1,7 @@
 import castArray  from "../src/castArray";
 
-/** * Tests for `castArray` function which should cast a value as an array if it's not one.
+/**
+ * Tests for `castArray` function which should cast a value as an array if it's not one.
  */
 describe("castArray", () => {
   it("should cast non-array values to arrays", () => {

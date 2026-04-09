@@ -1,5 +1,8 @@
 import drop from "../src/drop";
 
+/**
+ * Testing the `drop` function to ensure it correctly drops elements from an array. 
+*/
 describe('drop', () => {
   it('should drop the first element of an array', () => {
     expect(drop([1, 2, 3])).toEqual([2, 3])

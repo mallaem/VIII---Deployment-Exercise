@@ -1,5 +1,7 @@
 import words from "../src/words";
 
+/** *  Testing the `words` function to ensure it correctly splits
+ */
 describe("words", () => {
   it("should split a string into words", () => {
     expect(words("fred, barney, & pebbles")).toEqual(["fred", "barney", "pebbles"]);
